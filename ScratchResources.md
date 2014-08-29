@@ -4,8 +4,8 @@ Open the Tips bar from the Scratch editor by clicking on the Tips button at the 
 
 For more tutorials and cool tricks that you can do with Scratch, check out [these videos](http://scratch.mit.edu/help/videos/) on the Scratch Website.
 
-Another great reference for Scratch is the Scratch Wiki, where you will find explanations of Scratch's components and how to use them.
+Another great reference for Scratch is the [Scratch Wiki](http://wiki.scratch.mit.edu/wiki/Scratch_Wiki:Table_of_Contents), where you will find explanations of Scratch's components and how to use them.
 
-Scratch also provides a great online community for sharing ideas and finding help. Head to the Scratch discussion boards and join the conversation.
+Scratch also provides a great online community for sharing ideas and finding help. Head to the [Scratch discussion boards](http://scratch.mit.edu/discuss/) and join the conversation.
 
-If you want a more thorough video overview of Scratch, this podcast goes through the language's details in 10 videos.
+If you want a more thorough video overview of Scratch, this [podcast](http://vliege.podomatic.com/) goes through the language's details in 10 videos.
