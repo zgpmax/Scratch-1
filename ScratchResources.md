@@ -2,7 +2,7 @@ Once you have worked through one or both of the two activities above, feel free 
 
 Open the Tips bar from the Scratch editor by clicking on the Tips button at the top of the window. In it you will find more tutorial projects and a large collection of references on how to program with Scratch.
 
-For more tutorials and cool tricks that you can do with Scratch, check out these videos on the Scratch Website.
+For more tutorials and cool tricks that you can do with Scratch, check out [these videos](http://scratch.mit.edu/help/videos/) on the Scratch Website.
 
 Another great reference for Scratch is the Scratch Wiki, where you will find explanations of Scratch's components and how to use them.
 
